@@ -1,6 +1,10 @@
 ## Info
 Assignment: Intermediate – Senior (Full-stack)
 
+## TODO
+- [ ] Upgrade Angular frontend from 7.0.4 to 13.1.1
+- [ ] Upgrade .Net Core API Backend from 2.1 to 5.0
+
 # Angular 7 Project with ASP.NET CORE 2.1 (GYM MANAGEMENT)
 
 ## Getting Started
@@ -21,7 +25,7 @@ The project has 3 parts
 2.	ASP.NET Core for APIS
 3.	SQL server for database parts
 
-### Download Database of Project
+### Database of Project
 Will be made available on request to se.dube28@gmail.com
 
 ### About Platform and Tools Used 
@@ -60,7 +64,3 @@ Password :- 123456<br>
 ### =========== Admin =========== <br>
 Username :- admin<br>
 Password :- 123456<br>
-
-## TODO
-- [ ] Upgrade Angular frontend from 7.0.4 to 13.1.1
-- [ ] Upgrade .Net Core API Backend from 2.1 to 5.0
