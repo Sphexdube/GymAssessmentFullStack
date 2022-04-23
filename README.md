@@ -21,7 +21,7 @@ The project has 3 parts
 2.	ASP.NET Core for APIS
 3.	SQL server for database parts
 
-### Download Database of Project
+### Database of Project
 Will be made available on request to se.dube28@gmail.com
 
 ### About Platform and Tools Used 
